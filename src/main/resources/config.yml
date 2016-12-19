@@ -2,7 +2,7 @@ core:
  plugin-enabled: true
  locale: en
 #Max tree count per player
- tree-limit: 3
+ tree-limit: U+221E
 #On date all trees stop to spawn presents and particles. 
 #Players can unbuild it and get resources back (if enabled)
  holiday-ends:
